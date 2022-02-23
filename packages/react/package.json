@@ -1,6 +1,6 @@
 {
   "name": "@antoine-giret/matomo-tracker-react",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "Matomo tracker for react projects",
   "main": "lib/index.js",
   "module": "es/index.js",
