@@ -1,5 +1,5 @@
 {
-  "name": "@datapunt/matomo-tracker-react",
+  "name": "@antoine-giret/matomo-tracker-react",
   "version": "0.5.1",
   "description": "Matomo tracker for react projects",
   "main": "lib/index.js",

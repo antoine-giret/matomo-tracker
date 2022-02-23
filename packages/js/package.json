@@ -1,5 +1,5 @@
 {
-  "name": "@datapunt/matomo-tracker-js",
+  "name": "@antoine-giret/matomo-tracker-js",
   "version": "0.5.1",
   "description": "Matomo tracker for frontend projects",
   "main": "lib/index.js",
